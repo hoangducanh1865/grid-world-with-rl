@@ -1,1 +1,1 @@
-# Grid Wrold with Reinforcement Learning
+# Grid World with Reinforcement Learning
